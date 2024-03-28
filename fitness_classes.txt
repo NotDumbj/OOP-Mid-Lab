@@ -1,0 +1,4 @@
+Yoga 10
+Swimming 20
+Boxing 15
+Dance 25
